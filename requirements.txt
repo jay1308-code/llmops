@@ -1,0 +1,9 @@
+langchain
+langchainhub
+bs4
+tiktoken
+openai
+boto
+langchain_community
+chromadb
+
